@@ -220,4 +220,4 @@ struct CardView: View{
 
 ```
 
-<iframe style="width:560px; height:315px;" src="https://github.com/Hfhnyhkyhjj/yzu-swiftui-1121-1101210/blob/main/RPReplay_Final1704280618.mp4" frameborder="0" allowfullscreen></iframe>
+<iframe style="width:560px; height:315px;" src="https://github.com/Hfhnyhkyhjj/yzu-swiftui-1121-1101210/blob/main/video_488983788073255058-9G2YjvTV.mp4" frameborder="0" allowfullscreen></iframe>
