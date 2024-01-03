@@ -216,3 +216,8 @@ struct CardView: View{
         }
     }
 }
+
+
+```
+
+<img width="40%"  src="https://github.com/Hfhnyhkyhjj/yzu-swiftui-1121-1101210/blob/main/IMG_0352.png">
